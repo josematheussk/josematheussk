@@ -34,3 +34,14 @@ dedicado a ficar cada vez melhor e entrar no mercado de trabalho.
   - ReactJS
   - Java
   - MySQL
+
+## Meus dados no Github
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josematheussk&show_icons=true&theme=tokyonight)
+</span> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=josematheussk&show_icons=true&theme=tokyonight)
+[![josematheussk](https://github-readme-stats.vercel.app/api/top-langs/?username=josematheussk&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/josematheussk/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=josematheussk&layout=compact&theme=tokyonight) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

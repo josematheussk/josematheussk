@@ -5,9 +5,7 @@
 
 <hr>
 
-[![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/josematheussk)](https://www.instagram.com/josematheussk/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/josematheussk)](https://www.linkedin.com/in/josematheussk/)
-[![Spotify Badge](https://img.shields.io/badge/-Spotify-3bb34b?style=for-the-badge&logo=Spotify&logoColor=161f16&link=https://github.com/josematheussk)](https://open.spotify.com/user/abxotz4fdfzphkal7begesnk4?si=aa155a31ae5c4d42&nd=1)
 
 </h4>
 
@@ -19,21 +17,12 @@ Olá, eu sou o José.
 </h3>
 
 ```
-Sou desenvolvedor e estudante em formação, visando me tornar universitário na UFSC 
-no curso de Sistemas da Informação. 
+Sou um programador que sonha em um dia sair do brasil pra morar na Europa ou Oceania. 
 
 Sou fascinado por computação, jogos e tecnologia desde pequenininho, e atualmente tenho me 
-dedicado a ficar cada vez melhor e entrar no mercado de trabalho.
+dedicado a ficar cada vez melhor.
 ```
 
-## Tecnologias que estou estudando atualmente 💻
-
-  - HTML
-  - CSS
-  - JavaScript
-  - ReactJS
-  - Java
-  - MySQL
 
 ## Meus dados no Github
 
